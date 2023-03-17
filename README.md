@@ -7,6 +7,19 @@ I intend to apply the problem-solving skills and methods I've acquired during my
 I recently graduated from Makers Academy, where I produced test-driven, DRY code using Ruby and the MERN stack. Currently, I am continuing to build personal projects using the MERN stack, while also studying and applying these principles.
 
 
+
+## Tech stack
+
+[Programming Language 1]
+[Programming Language 2]
+[Framework 1]
+[Framework 2]
+[Database Management System]
+[Cloud Computing Platform]
+
+
+
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
