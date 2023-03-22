@@ -13,7 +13,6 @@ I recently graduated from Makers Academy, where I produced test-driven, DRY code
 - Web Development Frameworks: Ruby, Sinatra, JavaScript, React, Express, Node.js
 - Databases: SQL (PostgreSQL), MongoDB, Mongoose
 - Testing Frameworks: Jest, Rspec, Cypress
-- Hosting: Heroku, Render
 - Version Control: Git, Github
 - Other Tools: Postman, TablePlus, Excalidraw
 
@@ -81,7 +80,7 @@ I coordinated several successful projects during my tenure as a project assistan
 - Worked with a diverse array of programming languages and frameworks, including Ruby, Ruby on Rails, Sinatra, Javascript, React, Express, MongoDB, and PostgreSQL.
 - Effectively worked together with fellow learners to determine feasible minimum viable products (MVPs) and delivered them within designated timelines.
 
-[CHECK](https://youtu.be/KeRzG6w2L60)
+
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+During my leisure time, I take pleasure in playing video games and engaging in physical activity at the gym. Additionally, I am a co-manager for a rising artist named MAK, and we recently released our debut single titled [Check](https://youtu.be/KeRzG6w2L60) in 2022.
