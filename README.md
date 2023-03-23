@@ -1,6 +1,6 @@
 ## Michael Hall 
 
-I am a junior developer with a background in live events and customer service. I am seeking to further my career and gain more experience within the tech industry. I am excited about the prospect of working in an agile team, applying my skills and learning from others to continue to grow as a full stack developer.
+I am a junior developer with a background in customer service. I am seeking to further my career and gain more experience within the tech industry. I am excited about the prospect of working in an agile team, applying my skills and learning from others to continue to grow as a full stack developer.
 
 I intend to apply the problem-solving skills and methods I've acquired during my time working in customer service to coding. Throughout my experience as a customer service assistant, I have enjoyed working with others and supporting those I have worked with, as well as facing the challenges of meeting customers' needs.
 
